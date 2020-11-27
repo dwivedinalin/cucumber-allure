@@ -1,0 +1,8 @@
+org/dep/example/pages/GoogleSearchPage.class
+org/dep/example/config/WebDriverManager.class
+org/dep/example/TestRunner.class
+org/dep/example/pages/AbstractPage.class
+org/dep/example/config/Hooks.class
+org/dep/example/config/PageObjectManager.class
+org/dep/example/pages/GoogleResultPage.class
+org/dep/example/steps/GoogleSearchSteps.class
