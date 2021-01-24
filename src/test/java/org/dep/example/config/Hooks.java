@@ -29,6 +29,9 @@ public class Hooks {
     if (scenario.getStatus().equals(Status.FAILED)) {
       takeScreenshot(scenario);
     }
+    else if (scenario.getStatus().equals(Status.PASSED)){
+      takeScreenshot(scenario);
+    }
   }
 
   @After()
